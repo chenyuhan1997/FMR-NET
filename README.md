@@ -7,15 +7,15 @@
 ![representive_results](Image.jpg)
 
 ### Training process
-run 'train.py'
+```run 'train.py'```
 
 ### Testing process
 We provide three pre-trained models for the LOL dataset, the FiveK dataset and the results of training them together. 
 You can also train with your own dataset.
-'''Modify your pre-trained model path in 'data_test.py'''
+```Modify your pre-trained model path in 'data_test.py```
 
 If you find this work useful for you, please cite
-'''
+```
 @article{chen2024fmr,
   title={FMR-Net: a fast multi-scale residual network for low-light image enhancement},
   author={Chen, Yuhan and Zhu, Ge and Wang, Xianquan and Shen, Yuhuai},
@@ -26,4 +26,4 @@ If you find this work useful for you, please cite
   year={2024},
   publisher={Springer}
 }
-'''
+```
